@@ -8,13 +8,13 @@ AI Finance Pencil is a full-stack personal finance management tool that combines
 
 - **Reports:** The application provides monthly and yearly reports based on the income and expenditure data.
 
-- **GPT-3 Integration:** The integration with OpenAI's GPT-3 provides users with intelligent and interactive features such as chat support and budgeting tips.
+- **LLMs Integration:** The integration with OpenAI's GPT-3.5 provides users with intelligent and interactive features such as chat support and budgeting tips.
 
 ## Tech Stack
 
 - **Back-End:** Django Rest Framework
 - **Front-End:** Next.js
-- **AI:** OpenAI's GPT-3
+- **AI:** OpenAI's LLMs
 
 ## How to Install
 
@@ -22,7 +22,7 @@ Please follow the instructions in the INSTALL.md file.
 
 ## Future Scope
 
-1. **Expanding GPT-3 Features:** We aim to fully exploit the capabilities of GPT-3 by introducing features such as automated descriptions for budgeting categories, predictive typing, and more data analysis capabilities.
+1. **Expanding GPT-4 Features:** We aim to fully exploit the capabilities of GPT-4 by introducing features such as automated descriptions for budgeting categories, predictive typing, and more data analysis capabilities.
 
 2. **User Accounts:** We plan to add user authentication and individual user accounts to enhance data privacy and security.
 
@@ -38,4 +38,4 @@ MIT
 
 ## About
 
-The project is maintained by [Your Name]. Reach out with any questions or if you want to contribute.
+The project is maintained by Shamsuddin Ahmed. Reach out with any questions or if you want to contribute.

@@ -1,0 +1,47 @@
+ai-finance-pencil/
+├── backend/                   # Django Rest Framework
+│   ├── ai_finance_pencil/
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   ├── manage.py
+│   ├── expenses/
+│   │   ├── migrations/
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   ├── views.py
+│   │   └── serializers.py
+│   ├── income/
+│   │   ├── migrations/
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   ├── views.py
+│   │   └── serializers.py
+│   ├── users/
+│   │   ├── migrations/
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   ├── views.py
+│   │   └── serializers.py
+│   ├── requirements.txt
+│   └── Dockerfile
+├── frontend/                  # Next.js
+│   ├── public/
+│   ├── src/
+│   │   ├── pages/
+│   │   ├── components/
+│   │   ├── styles/
+│   │   └── utils/
+│   ├── package.json
+│   ├── next.config.js
+│   └── Dockerfile
+├── .gitignore
+├── README.md
+├── LICENSE
+└── docker-compose.yml

@@ -38,4 +38,4 @@ MIT
 
 ## About
 
-The project is maintained by Shamsuddin Ahmed. Reach out with any questions or if you want to contribute.
+The project is maintained by David Suzuki. Reach out with any questions or if you want to contribute.
